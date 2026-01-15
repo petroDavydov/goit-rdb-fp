@@ -1,4 +1,4 @@
--- Final Project: Final Progect: Relational Databases - Concepts and Techniques --
+-- Final Progect: Relational Databases - Concepts and Techniques --
 
 -- 1 --
 
